@@ -128,24 +128,19 @@
                 "file": "README.md"
               }
             }
-          },
-          {
-            "id": "a541204cb4410bf4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "443ee0cc691132ac",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
