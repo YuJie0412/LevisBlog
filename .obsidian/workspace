@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "20f51f932645b443",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6ec7f7bc7046ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaNote/Java.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5e5aeb6499a6245",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c55b7999a5a11d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbade041ffe4746f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2352bb51a0d4116f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c104716dcd5ce945",
+    "type": "split",
+    "children": [
+      {
+        "id": "b773ec8c35092724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9d140323c1c766e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaNote/Java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a04baa51624aeb24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaNote/Java.md"
+              }
+            }
+          },
+          {
+            "id": "b8c4b11e09c7907c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.18060302734375
+  },
+  "active": "9a6ec7f7bc7046ac",
+  "lastOpenFiles": [
+    "doc/demo04_signal/signal.md",
+    "JavaNote/Java基础.md",
+    "JavaNote/Java.md",
+    "OB所有第三方插件简介.md",
+    "OB所有主题预览.md",
+    "doc/tutorial-project.md",
+    "doc/language-select.md",
+    "GodotNote/测试.md",
+    "doc/design-pattern.md",
+    "doc/demo10_animation/animation.md"
+  ]
+}
